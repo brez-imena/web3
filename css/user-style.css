@@ -1,0 +1,144 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+#iwbl {
+    background-repeat: repeat;
+    background-position: center center;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+#iwbl {
+    background-repeat: repeat;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+#ikbyn {
+    height: 300px;
+}
+
+#ichxd {
+    height: 300px;
+}
+
+#iz5vy {
+    height: 300px;
+}
+
+.htmlpage-row {
+    display: table;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    width: 100%;
+}
+
+.htmlpage-cell {
+    width: 8%;
+    display: table-cell;
+    height: 75px;
+}
+
+.c20208 {
+    width: 11.76%;
+}
+
+.c20217 {
+    width: 70%;
+}
+
+.c20445 {
+    color: black;
+    width: 101px;
+    height: 101px;
+}
+
+.c20581 {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    position: absolute;
+}
+
+.c20932 {
+    color: rgb(27, 0, 255);
+    font-size: 34px;
+    position: absolute;
+}
+
+.c1126 {
+    background-image: url("../5QGFA4PF.jpeg");
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-attachment: scroll;
+    background-size: cover;
+    height: 163.667px;
+    color: rgb(255, 0, 0);
+    font-size: 44px;
+}
+
+.c2064 {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.c2145 {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.c2821 {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.c2902 {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.c3446 {
+    height: 300px;
+    font-size: 21px;
+}
+
+.c5916 {
+    color: rgb(6, 0, 255);
+    font-size: 22px;
+}
+
+@media (max-width: 768px) {
+    .htmlpage-cell {
+        width: 100%;
+        display: block;
+    }
+}
